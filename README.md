@@ -24,3 +24,12 @@ This project is a casual sliding puzzle game developed in two weeks as part of a
 * UniTask – Efficient asynchronous operations
 * DOTween – Smooth animations
 * Newtonsoft.Json – Data serialization
+
+**Potential Improvements:**
+* Monetization – Integration of Unity Ads and Unity Analytics
+* Leaderboards & Social Features – Online leaderboards and integration with social media
+* Gameplay Enhancements – Expanding difficulty settings and introducing advanced mechanics
+* Improved UI/UX – Refining UI transitions and player interactions
+* Cloud Save – Cross-device progress saving
+
+By leveraging ECS for game mechanics and MVP with DI for UI and services, this project demonstrates a structured and modular architecture. With additional development time, monetization, social connectivity, and more complex gameplay elements could be integrated to further enhance the experience. 
